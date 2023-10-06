@@ -1,0 +1,103 @@
+{margin: 10; padding: 10}
+
+head{
+    background-image: url(Logo\ nova.png); 
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: 200px 30px;
+}
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-style: inherit;
+
+background-position: url(Logo\ nova.png);
+background-size: cover;
+    
+}
+
+Menu{
+    list-style: none;
+    border: 100px solid #c0c0c0;
+    float: left;
+    font-weight: bold;
+}
+
+
+class{
+    centralize
+}
+
+label{
+
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+
+Contato{
+
+    
+}
+body{
+margin: 20;
+}
+h1{
+    width="200" height="200"
+}
+.banner{
+    height: 700px;
+    background-position: content: '\f106';;
+    background-attachment: fixed;
+    background-repeat: no-repeat; background-size: cover;
+    background-image: url(Logo\ nova.png);
+    }
+    .content{
+    padding: 50px;
+    }
+    .galeria{
+    padding: 100px;
+
+    }
+    .galeria img{
+    height: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    }
+.navbar{
+background-color: rgb(219, 122, 190);
+color: rgb(215, 228, 240);
+padding: 20px;
+}
+li{
+display: inline-block;
+padding-right: 3vw;
+}
+a{
+color: rgb(235, 223, 223);
+}
+body{
+margin: 0;
+}
+.navbar{
+background-color: rgb(59, 2, 42);
+color: rgb(222, 227, 231);
+padding: 20px;
+}
+li{
+display: inline-block;
+padding-right: 3vw;
+}
+a{
+color: rgb(240, 231, 231);
+}
+@media (max-width: 800px){
+    .navbar{text-align: center;}
+}
+.footer{
+    background-color: rgb(58, 2, 53);
+    color: #e9bce3;
+    text-align: center;
+    padding: 1rem;
+    }
+    
